@@ -7,7 +7,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-17.01-core
 
 Package: artwork-wallpapers-netrunner-17.01-core
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}
 Description: wallpapers for Netrunner Core 17.01
  This package provides wallpapers for Netrunner Core 17.01
